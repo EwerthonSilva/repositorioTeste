@@ -1,0 +1,9 @@
+for(Character ch : list){
+	sysout("blablabla");
+}
+
+
+
+
+
+
